@@ -76,3 +76,4 @@ crashlytics-build.properties
 
 #wifi creds
 01_ArduinoIDE/01_ESP32-CAM_HTTP_WPAEnterprise/wifi_credentials.h
+01_ArduinoIDE/02_ESP32-DEV_BURGNETZ-CONNECT/wifi_credentials.h
