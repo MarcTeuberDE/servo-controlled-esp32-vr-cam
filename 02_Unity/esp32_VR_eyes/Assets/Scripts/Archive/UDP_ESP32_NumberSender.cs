@@ -6,7 +6,7 @@ using UnityEngine;
 public class UDP_ESP32_NumberSender : MonoBehaviour
 {
     UdpClient client;
-    [SerializeField] string esp32_IP = "10.102.128.182"; // <-- Replace with your actual ESP32 IP
+    [SerializeField] string esp32IP = "10.102.128.182"; // <-- Replace with your actual ESP32 IP
     int port = 4210;
     int counter = 0;
     bool running = true;
