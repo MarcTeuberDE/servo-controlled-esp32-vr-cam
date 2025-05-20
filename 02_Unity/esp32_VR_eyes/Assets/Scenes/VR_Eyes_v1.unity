@@ -164,10 +164,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 24061464}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dd34e2480f609a54bb8ae432b68a70d6, type: 3}
+  m_Script: {fileID: 11500000, guid: 99190c7cc51b98e44919319948242e2f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   esp32IP: 10.102.128.182
+  port: 4210
+  headTransform: {fileID: 1583388821}
 --- !u!1 &213111832
 GameObject:
   m_ObjectHideFlags: 0
